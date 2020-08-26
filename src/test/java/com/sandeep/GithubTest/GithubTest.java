@@ -32,4 +32,11 @@ public class GithubTest
         Assert.assertEquals(true, true);
 
     }
+
+    public static void testWebhooks3()
+    {
+        System.out.println("I am executing webhook of Github weekhook");
+        Assert.assertEquals(true, true);
+
+    }
 }
