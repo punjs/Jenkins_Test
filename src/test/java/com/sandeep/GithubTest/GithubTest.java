@@ -37,6 +37,7 @@ public class GithubTest
     {
         System.out.println("I am executing webhook of Github weekhook");
         Assert.assertEquals(true, true);
+        System.out.println("Hi");
 
     }
 }
