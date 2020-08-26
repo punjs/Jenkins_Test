@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42" started-at="2020-08-26T14:34:29Z" finished-at="2020-08-26T14:34:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42" started-at="2020-08-26T14:34:29Z" finished-at="2020-08-26T14:34:29Z">
+      <class name="com.sandeep.GithubTest.GithubTest">
+        <test-method status="PASS" signature="testWebhooks()[pri:0, instance:com.sandeep.GithubTest.GithubTest@475530b9]" name="testWebhooks" duration-ms="14" started-at="2020-08-26T20:04:29Z" finished-at="2020-08-26T20:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebhooks -->
+      </class> <!-- com.sandeep.GithubTest.GithubTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
